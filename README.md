@@ -7,7 +7,7 @@ To develop a report on a dataset of the employees' overall performance in a call
 
 **The process Involved**
 
-ETL in Power-Query
+ETL in Power-Query.
 
 Writing DAXs to calculate Total calls, average satisfaction rating, answering and resolve rates, etc.
 
