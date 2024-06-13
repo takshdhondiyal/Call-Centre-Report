@@ -9,7 +9,7 @@ To develop a report on a dataset of the employees' overall performance in a call
 
 ETL in Power-Query.
 
-Writing DAXs to calculate Total calls, average satisfaction rating, answering and resolve rates, etc.
+Writing DAXs to calculate Total calls, average satisfaction rating, answering and resolved rates, etc.
 
 Designing the visuals.
 
